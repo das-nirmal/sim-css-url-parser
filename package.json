@@ -1,0 +1,24 @@
+{
+  "name": "sim-css-url-parser",
+  "version": "1.0.0",
+  "description": "",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vkuman1/sim-css-url-parser.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vkuman1/sim-css-url-parser/issues"
+  },
+  "homepage": "https://github.com/vkuman1/sim-css-url-parser#readme",
+  "dependencies": {
+    "gulp": "^3.9.1",
+    "gulp-modify-css-urls": "^0.2.2",
+    "gulp-strip-css-comments": "^1.2.0"
+  }
+}
